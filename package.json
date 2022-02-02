@@ -70,7 +70,8 @@
   "optionalDependencies": {},
   "peerDependencies": {
     "react": ">=16.4.1",
-    "react-native": ">=0.56.0"
+    "react-native": ">=0.56.0",
+    "@codler/react-native-keyboard-aware-scroll-view": "2.0.1"
   },
   "husky": {
     "hooks": {
